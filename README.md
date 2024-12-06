@@ -1,6 +1,3 @@
-[![Discord Follow](https://dcbadge.vercel.app/api/server/feYhyYznDf?style=flat)](https://discord.gg/feYhyYznDf)
-
-
 
 # Serial Communication Plugin for Unreal Engine
 Serial Com Port Library for Unreal Engine 5.4.2
